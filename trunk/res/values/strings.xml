@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="label_latitude">Latitude: </string>
+	<string name="app_name">Localize@ndroid</string>
+	<string name="label_search">Search</string>
+	<string name="label_find">Localize</string>
+	<string name="label_manage">Manage</string>
+	<!-- Strings da janela main.xml -->
+	<string name="buttonSearch">Search</string>
+	<string name="no_results">Without results</string>
+	<!-- Strings da janela result.xml -->
+	<string name="label_space">Local: </string>
+	<string name="label_description">Description: </string>
+	<string name="label_position">Position: </string>
+	<string name="label_longitude">Longitude: </string>
+	<string name="label_altitude">Altitude: </string>
+	<string name="label_type_space">Local type:</string>
+	<!-- Strings da janela edit.xml -->
+	<string name="label_edit_space">Edit local</string>
+	<string name="label_edit_type_space">Edit local type</string>
+	<string name="label_syncronize">Sincronize</string>
+	<!-- Strings da janela edit_space_details.xml -->
+	<string name="buttonSave">Save</string>
+	<string name="label_map">Open the map</string>
+	<!-- Strings para o SpaceDetails -->
+	<string name="confirm_title">Do you confirm the changes?</string>
+	<string name="confirm_ok">Yes</string>
+	<string name="confirm_cancel">No</string>
+	<string name="confirmation_text">Changes saved</string>
+	<string name="cancel_text">The changes were cancelled by the user</string>
+	<string name="ctx_edit_btn">Edit</string>
+	<string name="ctx_delete_btn">Delete</string>
+	<string name="delete_local_msg">Are you sure that you want to delete the local</string>
+	<string name="delete_local_type_msg">Are you sure that you want to delete the local type</string>
+	<string name="edit_local_msg">Edit selected</string>
+	<string name="label_yes">Yes</string>
+	<string name="label_no">No</string>
+	<string name="error_deleting_local">Error while removing the local</string>
+	<string name="ctx_add_btn">Add</string>
+	<string name="option_new_locatype">&lt;new&gt;</string>
+	<string name="ctx_manage_btn">Manage</string>
+	<string name="ctx_search_btn">New search</string>
+	<string name="ctx_visualview_btn">Map</string>
+	<string name="ctx_textview_btn">List</string>
+	<string name="search_start_msg">Use the search button or the New search menu  option to start a new search</string>
+	<string name="search_searching">Localizing, please wait...</string>
+	<string name="ctx_add_locals">Add local</string>
+	<string name="ctx_manage_locals_types_btn">Manage local types</string>
+	<string name="search_space_deleted">Space successfully deleted</string>
+	<string name="local_type_deleted">Local type deleted</string>
+	<string name="error_deleting_local_type">Unable to delete the local type (is it in use?)</string>
+	<string name="localize_label_loading">Loading...</string>
+	<string name="localize_label_welcome">Welcome!</string>
+	<string name="error_on_local_save">Unable to save the local</string>
+	<string name="error_on_local_type_save">Unable to save the local type</string>
+	<string name="error_while_retrieving_the_local">Unable to get the local</string>
+	<string name="label_space_type_name">Name</string>
+	<string name="label_space_type_icon">Icon</string>
+	<string name="title_select_icon">Select icon</string>
+	<string name="title_help">Help</string>
+	
+	<string name="info_mode_satellite_enabled">Satellite mode enabled</string>
+	<string name="info_mode_satellite_disabled">Satellite mode disabled</string>
+	<string name="info_mode_traffic_enabled">Traffic mode enabled</string>
+	<string name="info_mode_traffic_disabled">Traffic mode disabled</string>
+	<string name="info_mode_street_enabled">Street mode enabled</string>
+	<string name="info_mode_street_disabled">Street mode disabled</string>
+	
+	<string name="label_map_options">Map options</string>
+	<string name="label_enable_satellite_mode">Enable satellite mode</string>
+	<string name="label_disable_satellite_mode">Disable satellite mode</string>
+	<string name="label_enable_traffic_mode">Enable traffic mode</string>
+	<string name="label_disable_traffic_mode">Disable traffic mode</string>
+	<string name="label_enable_street_mode">Enable street mode</string>
+	<string name="label_disable_street_mode">Disable street mode</string>
+	<string name="label_show_position_info_window">Show position info</string>
+	<string name="label_use_position">Use current position</string>
+	<string name="label_set_my_position">Set last known position</string>
+	<string name="error_while_getting_the_position">Unable to get the location</string>
+	<string name="label_reset_position">Reset position</string>
+	
+	<string name="label_add_local_type">Add local type</string>
+	<string name="label_empty_local_types_list">Without local types to show</string>
+	
+	<string name="info_updating">Refreshing, please wait...</string>
+	
+	<string name="x_locals_found">%d locals were found</string>
+</resources>

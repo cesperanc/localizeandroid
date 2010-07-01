@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="label_latitude">Latitude: </string>
+	<string name="app_name">Localize@ndroid</string>
+	<string name="label_search">Pesquisar</string>
+	<string name="label_find">Localizar</string>
+	<string name="label_manage">Gerir</string>
+	<!-- Strings da janela main.xml -->
+	<string name="buttonSearch">Pesquisar</string>
+	<string name="no_results">Sem resultados</string>
+	<!-- Strings da janela result.xml -->
+	<string name="label_space">Espaço: </string>
+	<string name="label_description">Descrição: </string>
+	<string name="label_position">Posição: </string>
+	<string name="label_longitude">Longitude: </string>
+	<string name="label_altitude">Altitude: </string>
+	<string name="label_type_space">Tipo Espaço: </string>
+	<!-- Strings da janela edit.xml -->
+	<string name="label_edit_space">Editar Espaço</string>
+	<string name="label_edit_type_space">Editar Tipo Espaço</string>
+	<string name="label_syncronize">Sincronizar</string>
+	<!-- Strings da janela edit_space_details.xml -->
+	<string name="buttonSave">Guardar</string>
+	<string name="label_map">Abrir Mapa</string>
+	<!-- Strings para o SpaceDetails -->
+	<string name="confirm_title">Confirma as alterações efectuadas?</string>
+	<string name="confirm_ok">Sim</string>
+	<string name="confirm_cancel">Não</string>
+	<string name="confirmation_text">As alterações foram guardadas com sucesso</string>
+	<string name="cancel_text">As alterações foram canceladas pelo utilizador</string>
+	<string name="ctx_edit_btn">Editar</string>
+	<string name="ctx_delete_btn">Eliminar</string>
+	<string name="delete_local_msg">Tem a certeza de que pretende eliminar o local</string>
+	<string name="delete_local_type_msg">Tem a certeza de que pretende eliminar o tipo de local</string>
+	<string name="edit_local_msg">Editar selecionado</string>
+	<string name="label_yes">Sim</string>
+	<string name="label_no">Não</string>
+	<string name="error_deleting_local">Ocorreu um erro ao eliminar o local</string>
+	<string name="ctx_add_btn">Adicionar</string>
+	<string name="option_new_locatype">&lt;novo&gt;</string>
+	<string name="ctx_manage_btn">Gerir</string>
+	<string name="ctx_search_btn">Nova pesquisa</string>
+	<string name="ctx_visualview_btn">Mapa</string>
+	<string name="ctx_textview_btn">Lista</string>
+	<string name="search_start_msg">Utilize o botão de pesquisa ou menu para iniciar uma nova pesquisa</string>
+	<string name="search_searching">A localizar, por favor aguarde...</string>
+	<string name="ctx_add_locals">Adicionar espaços</string>
+	<string name="ctx_manage_locals_types_btn">Gerir tipos de espaços</string>
+	<string name="search_space_deleted">Espaço eliminado com sucesso</string>
+	<string name="local_type_deleted">Tipo de local eliminado com sucesso</string>
+	<string name="error_deleting_local_type">Não foi possível eliminar o tipo de local (estará a ser utilizado?)</string>
+	<string name="localize_label_loading">A carregar...</string>
+	<string name="localize_label_welcome">Bem-vindo!</string>
+	<string name="error_on_local_save">Não foi possível guardar o local</string>
+	<string name="error_on_local_type_save">Não foi possível guardar o tipo de local</string>
+	<string name="error_while_retrieving_the_local">Não foi possível obter o local</string>
+	<string name="label_space_type_name">Nome</string>
+	<string name="label_space_type_icon">Icone</string>
+	<string name="title_select_icon">Seleccionar icone</string>
+	<string name="title_help">Ajuda</string>
+	
+	<string name="info_mode_satellite_enabled">Modo satélite activo</string>
+	<string name="info_mode_satellite_disabled">Modo satélite desactivo</string>
+	<string name="info_mode_traffic_enabled">Modo tráfego activo</string>
+	<string name="info_mode_traffic_disabled">Modo tráfego desactivo</string>
+	<string name="info_mode_street_enabled">Modo rua activo</string>
+	<string name="info_mode_street_disabled">Modo rua desactivo</string>
+	
+	<string name="label_map_options">Opções do mapa</string>
+	<string name="label_enable_satellite_mode">Activar modo satélite</string>
+	<string name="label_disable_satellite_mode">Desactivar modo satélite</string>
+	<string name="label_enable_traffic_mode">Activar modo tráfego</string>
+	<string name="label_disable_traffic_mode">Desactivar modo tráfego</string>
+	<string name="label_enable_street_mode">Activar modo rua</string>
+	<string name="label_disable_street_mode">Desactivar modo rua</string>
+	<string name="label_show_position_info_window">Mostrar informação de posição</string>
+	<string name="label_use_position">Utilizar posição</string>
+	<string name="label_set_my_position">Definir a última posição conhecida</string>
+	<string name="error_while_getting_the_position">Não foi possível obter a localização</string>
+	<string name="label_reset_position">Repôr posição</string>
+	
+	<string name="label_add_local_type">Adicionar tipo de local</string>
+	<string name="label_empty_local_types_list">Sem tipos de locais</string>
+	
+	<string name="info_updating">A actualizar, por favor aguarde...</string>
+	
+	<string name="x_locals_found">Foram encontrados %d locais</string>
+</resources>
