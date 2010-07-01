@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Ajuda</title>
+		<style type="text/css">
+			code{
+				background-color: #EEEEEE;
+			}
+			cite{
+				text-decoration: underline;
+				text-transform: lowercase;
+			}
+		</style>
+	</head>
+	<body style="text-align: justify;">
+		<h1>Localize@android</h1>
+		<p align="center">
+			<img align="center" alt="" src="./img/splash.png" />
+		</p>
+		<p align="left">
+			Bem-vindo à ajuda do <strong>Localize@android</strong>.
+		</p>
+		
+		<h2>Pesquisas simples</h2>
+		<p>
+			Para efectuar uma pesquisa simples, introduza o nome ou a descrição do local a procurar na caixa de pesquisa e pressione o botão para submeter o seu pedido e aguardar pelos resultados. Se não obteve os resultados que pretendia, tente fazer a pesquisa com outros termos ou experimente as pesquisas avançadas.
+		</p>
+		
+		<h2>Pesquisas avançadas</h2>
+		<p>
+			Este tipo de pesquisa são uma funcionalidade mais avançada da aplicação que permite ter um controle mais refinado sobre os resultados. Estas pesquisas são feitas através da barra de pesquisa da aplicação e utilizam alguns operadores e <i>wildcards</i> que vamos apresentar de seguida.
+		</p>
+		
+		<h3>Operador <strong><i>and</i></strong></h3>
+		<p>Se o utilizador quiser procurar por todos os locais com o tipo Sala e o nome 1.1, basta digitar <code>Sala 1.1</code> para que a aplicação encontre os registos pretendidos.</p>
+		
+		<h3>Operador <strong><i>or</i></strong></h3>
+		<p>Pesquisar por <code>sala OR anfiteatro</code> procura por locais com o texto sala OU teste em todo o espaço pesquisável da base de dados. O operador <code>OR</code> deve ser introduzido em maiúsculas para ser reconhecido.</p>
+		
+		<h3>Negação</h3>
+		<p>Pesquisar por <code>sala -1.2</code> procura por todos os locais com o texto "sala" mas excluindo os resultados com o texto "1.2".</p>
+		
+		<h3>Filtros</h3>
+		<p>Pesquisar por <code>name:sala description:estudo gps:123,234 type:sala de aula altitude:1</code> procura por todos os locais que tenham o nome sala, descrição estudo, coordenadas de gps 123,234, do tipo sala na altitude 1.</p>
+		
+		<h3>Frases</h3>
+		<p>Pesquisar por <code>"sala de teste"</code> procura pela frase completa "sala de teste" em todo o espaço pesquisável da base de dados.</p>
+		
+		<h3><i>Wildcard</i> <strong><i>*</i></strong></h3>
+		<p>Pesquisar por <code>anf*</code> procura por todos os locais com texto que começe por "anf". Pesquisar por <code>*</code> devolve todos os locais existentes na base de dados.</p>
+	</body>
+</html>
