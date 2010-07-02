@@ -1,0 +1,2 @@
+#summary the page to use as sidebar
+<wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_languages.xml" width="340" height="200" border="1" />
