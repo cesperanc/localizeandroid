@@ -1,9 +1,9 @@
-# Introduction
+# Introduction #
 localizeandroid's chief goal is to provide a location-based service that manages a set of personally added locations (e.g.: country, city, tourism-related place, store, school, classroom,…). Users are able to manage the properties of the locations, including tags that enable a refined search mechanism. A visual-search display of a map with the search results is also available.
 
-This is an academic android project provided as it is, developed in the context of the course Software Engineering II at Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Leiria.
+This is an academic android project, developed in the context of the course Software Engineering II at School of Technology and Management from Polytechnic of Leiria.
 
-# Topics covered in the application
+# Topics covered in the application #
   * How to copy items from the assets folder to the SD card on the device and start the media indexing service to share items to the gallery
   * How to integrate the application within the global search
   * How to create a loader using a thread
@@ -16,43 +16,44 @@ This is an academic android project provided as it is, developed in the context 
   * How to integrate your application with the android media gallery
   * Among other things
 
-# Requirements
+# Requirements #
   * Android SDK 2.2 with the Google API's (custom debug key in the root of the project)
   * SD card (to use the local type icons functionality)
 
-# Screenshots
-## Loading
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/loading_screen.png" alt="loading screen"/>
+# Screenshots #
+## Loading ##
+![loading screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/loading_screen.png)
 
-## Results on map
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/results_map_screen-vertical.png" alt="results map screen"/>
+## Results on map ##
+![results map screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/results_map_screen-vertical.png)
 
-## Results on map - landscape orientation
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/results_map_screen-horizontal.png" alt="results map screen - landscape orientation"/>
+## Results on map - landscape orientation ##
+![results map screen - landscape orientation](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/results_map_screen-horizontal.png)
 
-## Results list
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/results_list_screen.png" alt="results list screen"/>
+## Results list ##
+![results list screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/results_list_screen.png)
 
-## Advanced search
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/advanced_search.png" alt="advanced search screen"/>
+## Advanced search ##
+![advanced search screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/advanced_search.png)
 
-## Context menu
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/context_menu screen.png" alt="context menu screen"/>
+## Context menu ##
+![context menu screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/context_menu screen.png)
 
-## Manage option
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/manage_option_screen.png" alt="manage option screen"/>
+## Manage option ##
+![manage option screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/manage_option_screen.png)
 
-## Contextual options menu
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/map_options_screen.png" alt="map options screen"/>
+## Contextual options menu ##
+![map options screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/map_options_screen.png)
 
-## Position editing
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/point_select_screen.png" alt="position editing screen"/>
+## Position editing ##
+![position editing screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/point_select_screen.png)
 
-## Android gallery integration
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/android_gallery_screen.png" alt="android gallery screen"/>
+## Android gallery integration ##
+![android gallery screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/android_gallery_screen.png)
 
-## HTML help window
-<img src="http://localizeandroid.googlecode.com/svn/wiki/images/screens/help_window_screen.png" alt="help window screen"/>
+## HTML help window ##
+![help window screen](https://github.com/cesperanc/localizeandroid/raw/wiki/images/screens/help_window_screen.png)
 
-# Language
-The code comments and the application help are available only in Portuguese. Sorry!
+
+# Language #
+The comments in the code and the application help are available only in Portuguese. Sorry!
